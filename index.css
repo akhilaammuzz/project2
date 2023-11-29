@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+}
+body{
+    color: white;
+
+}
+.ho{ 
+    
+    color: rgb(247, 243, 243);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+
+}
+.para{
+    color:rgb(214, 205, 205);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 15px;
+
+}
+
+.ab{
+    color: rgb(221, 221, 221);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+}
+.para1{
+    color: rgb(221, 221, 221);
+
+    
+}
+.ser{
+    color:rgb(56, 48, 48);
+    font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+
+   
+    
+
+
+}
+.para2{
+    color:black;
+}
+.wel{
+    color: rgb(221, 221, 221);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+    
+
+}
+.para3{
+    color: rgb(221, 221, 221);
+}
+.ps{
+    color:aliceblue;
+}
+.ser1{
+    background-color:rgba(75, 78, 71, 0.151);
+    height: 200px;
+    width: 500px;
+    margin: 15px;
+    padding: 15px;
+    border-radius:10px ;
+    
+    
+    /* border:1px solid gray; */
+
+
+   
+}
+.ser2{
+    
+    background-color:rgba(59, 63, 55, 0.377);
+    height: 200px;
+    width: 500px;
+    /* margin: 15px; */
+    padding: 15px;
+    border-radius:10px ;
+    /* border:1px solid gray; */
+    position: absolute;
+    right: 20px;
+
+
+}
+
+
+
+.para4{
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.box1{
+    background-color: rgba(103, 124, 124, 0.425);
+    height:380px;
+    border-radius: 10px;
+    padding: 5px;
+    width:340px;
+    margin:auto;
+    margin-top:100px;
+        
+}
+.box2{
+    background-color: rgba(170,179,178,0.137);
+    height: 290px;
+    width: 400px;
+    border-radius: 8px;
+    padding: 20px;
+    margin:auto;
+    margin-top:100px;
+        
+}
+.box3{
+    background-color: rgba(170, 179, 178, 0.137);
+    height: 150px;
+    width: 300px;
+    border-radius: 8px;
+    padding: 20px;
+    margin:auto;
+    margin-top:150px;
+        
+}
+.box01{ 
+
+    background-color: rgba(94, 105, 95, 0.356);
+    height: 180px;
+    width:300px;
+    border-radius: 10px;
+    padding: 19px;
+    margin:auto;
+    margin-top:100px;
+}
+
+
+
